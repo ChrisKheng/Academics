@@ -1,5 +1,5 @@
 # Hey There! 
-These are some of my resources for NUS CS course. Hope you find it helpful!
+These are some of my resources for NUS CS course. Hope you find it helpful! =D
 
 ### MA1101R Linear Algebra 
 * [Final Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)

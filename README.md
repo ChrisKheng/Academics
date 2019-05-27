@@ -1,4 +1,4 @@
-# Hey There! =D
+# Hey There! 
 These are some of my resources for NUS CS course. Hope you find it helpful! =D
 
 ### MA1101R Linear Algebra 
